@@ -266,18 +266,11 @@ h1.title-card {
     .share-mobile {
         padding: 40px 30px;
     }
-
 }
 
 @media only screen and (max-width: 350px) {
 
     body {
         height: 100%;
-    }
-
-    .attribution {
-        position: relative;
-        padding: 5px;
-        margin-top: 15px;
     }
 }

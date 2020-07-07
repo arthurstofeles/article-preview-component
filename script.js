@@ -28,7 +28,7 @@ let btnTwitter = document.querySelectorAll('[data-share="twitter"]');
 
 document.addEventListener("DOMContentLoaded", function() {
     for(let i = 0; i < btnTwitter.length; i++) {
-        btnTwitter[i].href = "https://twitter.com/intent/tweet?url="+window.location.href+"&text="+document.title;
+        btnTwitter[i].href = "https://twitter.com/intent/tweet?url="+window.location.href+"&text=";
     }
 });
 
