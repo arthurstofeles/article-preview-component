@@ -271,16 +271,8 @@ h1.title-card {
 
 @media only screen and (max-width: 350px) {
 
-<<<<<<< HEAD
     body {
         height: 100%;
     }
+    
 }
-=======
-    .attribution {
-        position: relative;
-        padding: 5px;
-        margin-top: 15px;
-    }
-}
->>>>>>> dfaec83990b27416162c1314f9b59b5d3cd99366
