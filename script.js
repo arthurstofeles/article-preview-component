@@ -13,3 +13,12 @@ function showShare() {
         cardShare.style.display = "none";
     }
 }
+
+// Facebook Share Function
+let btnFacebook = document.querySelectorAll('[data-share="facebook"]');
+
+window.onload = function() {
+    for(let i = 0; i < btnFacebook.length; i++) {
+        btnFacebook[i].href = "https://www.facebook.com/sharer/sharer.php?u=" + window.location.href;
+    }
+}
