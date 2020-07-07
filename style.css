@@ -230,6 +230,7 @@ h1.title-card {
 
     body {
         overflow: visible;
+        height: 100%;
     }
 
     .container {
@@ -270,10 +271,6 @@ h1.title-card {
 }
 
 @media only screen and (max-width: 350px) {
-
-    body {
-        height: 100%;
-    }
 
     .attribution {
         position: relative;
