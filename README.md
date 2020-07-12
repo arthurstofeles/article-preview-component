@@ -9,4 +9,4 @@ My users can:
  - View the optimal layout for the component depending on their device's screen size.
  - See the social media share links when they click the share icon and share the article.
 
-If you want to know more about this challenge, you can access this [link](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
+If you want to know more about this challenge, you can access this [link](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT).
